@@ -1,0 +1,140 @@
+em {
+    background-color: rgb(255, 212, 0);
+    color: rgb(46, 41, 78);
+    
+}
+
+strong {
+    background-color: hotpink; 
+}
+
+
+h1 {
+    padding-top: 10px;
+	color: rgba(46, 41, 78);
+    
+}
+h3 {
+    width: 1800px;
+    height:25px;
+    padding:5px 0px 0px 0px;
+    background-color:rgba(46, 41, 78);
+    color:white;
+    position: relative;
+    left:30px;
+
+}
+p {
+    background-color: lightblue;
+    display: inline;
+
+
+}
+p1{
+    color: salmon;
+    display: inline-block;
+}
+
+
+.headings{
+    border: 2px outset rgb(234, 222, 218);
+    padding: 0px;
+    position:relative;
+
+    width: 10000px;
+    height:auto;
+    
+    background-color: rgb(242, 245, 234);
+    color: rgb(44, 54, 63);
+    z-index: 2
+}
+
+.one{
+    margin-left: 5%;
+    position: absolute;
+    top:200px;
+    padding-left:35px;
+    padding-top:50px;
+    padding-right:10px;
+    padding-bottom:80px;
+
+
+    background-color: blanchedalmond;
+    height:auto;
+    width: 200px;
+
+}
+
+.two{
+    margin-left: 25%;
+    position: absolute;
+    top:200px;
+    padding-left:35px;
+    padding-top:50px;
+    padding-right:10px;
+    padding-bottom:80px;
+
+
+    background-color: blanchedalmond;
+    height:auto;
+    width: 200px;
+    
+}
+.three{
+    margin-left:45%;
+    position: absolute;
+    top:200px;
+    padding-left:35px;
+    padding-top:50px;
+    padding-right:10px;
+    padding-bottom:80px;
+
+
+    background-color: blanchedalmond;
+    height:auto;
+    width: 200px;
+    
+}
+.four{
+    margin-left: 65%;
+    position: absolute;
+    top:200px;
+    padding-left:35px;
+    padding-top:50px;
+    padding-right:10px;
+    padding-bottom:80px;
+
+
+    background-color: blanchedalmond;
+    height:auto;
+    width: 200px;
+
+}
+.five{
+    margin-left: 85%;
+    position: absolute;
+    top:200px;
+    padding-left:35px;
+    padding-top:50px;
+    padding-right:20px;
+    padding-bottom:80px;
+
+
+    background-color: blanchedalmond;
+    height:auto;
+    width: 200px;
+}
+.six{
+    margin-left: 105%;
+    position: absolute;
+    top:200px;
+    padding-left:35px;
+    padding-top:50px;
+    padding-right:0px;
+    padding-bottom:80px;
+
+
+    background-color: blanchedalmond;
+    height:auto;
+    width: 200px;
+}

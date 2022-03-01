@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Shaping Things by Bruce Sterling (excerpt)</title>
+        
+    </head>
+    <body>
+        <h1>My Landing Page</h1>
+
+        
+
+        
+        <div>
+            <ul>
+            <li><h3>Level 1</h3></li>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 1</a> <br>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 2</a> <br>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 3</a> <br>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 4</a> <br>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 5</a> <br>
+
+        </ul>
+        
+        <div>
+            <ul>
+            <li><h3>Level 2</h3></li>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 1</a> <br>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 2</a> <br>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 3</a> <br>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 4</a> <br>
+
+            <a href="file:///Users/amaris/Desktop/basic-website/level%201%F0%9F%8C%9F/level1_1.html">Variation 5</a> <br>
+
+        </ul>
+        </div>
+            
+        
+    
+
+    </body>
+</html>
